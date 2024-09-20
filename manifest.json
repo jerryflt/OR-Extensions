@@ -1,6 +1,8 @@
 {
   "name": "Party Resource Tracker",
+  "description": "Track rations, water, Constitution, and exhaustion levels for a party.",
   "version": "1.0",
+  "manifest_version": 1,
   "scripts": ["main.js"],
   "styles": ["style.css"],
   "html": "index.html"
