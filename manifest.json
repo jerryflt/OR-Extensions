@@ -5,6 +5,6 @@
   "action": {
     "title": "Ration Tracker",
     "icon": "/icon.svg",
-    "popover": "/index.html",
+    "popover": "/index.html"
   }
 }
