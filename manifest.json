@@ -1,9 +1,12 @@
 {
-  "name": "Party Resource Tracker",
-  "description": "Track rations, water, Constitution, and exhaustion levels for a party.",
-  "version": "1.0",
+  "name": "Ration Tracker",
+  "version": "1.0.0",
   "manifest_version": 1,
-  "scripts": ["main.js"],
-  "styles": ["style.css"],
-  "html": "index.html"
+  "action": {
+    "title": "Ration Tracker",
+    "icon": "/icon.svg", // Update with the correct path to your icon
+    "popover": "/index.html", // Update with the correct path to your popover
+    "height": 600,
+    "width": 400
+  }
 }
