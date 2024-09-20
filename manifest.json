@@ -4,8 +4,8 @@
   "manifest_version": 1,
   "action": {
     "title": "Ration Tracker",
-    "icon": "/icon.svg", // Update with the correct path to your icon
-    "popover": "/index.html", // Update with the correct path to your popover
+    "icon": "<svg xmlns='http://www.w3.org/2000/svg' width='24' height='24'><path d='M4 14h2v6H4zm1-10C3.45 4 2 5.45 2 7v2h2V7c0-1.1.9-2 2-2h2v2H6c-1.1 0-2 .9-2 2v4h2V8h2V6H6c-1.1 0-2-.9-2-2z' fill='none' fill-rule='evenodd' stroke='#000' stroke-width='2'/></svg>",
+    "popover": "/index.html",
     "height": 600,
     "width": 400
   }
