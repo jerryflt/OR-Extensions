@@ -5,7 +5,7 @@
   "action": {
     "title": "Ration Tracker",
     "icon": "/icon.svg",
-    "popover": "/index.html",
+    "popover": "https://jerryflt.github.io/OR-Extensions/index.html"
     "height": 600,
     "width": 400
   }
